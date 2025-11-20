@@ -1,4 +1,4 @@
-public class Weekend {
+public class weekend {
     public static void main(String[] args) {
         int week = 5;
 
